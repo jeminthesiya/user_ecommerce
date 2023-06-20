@@ -24,9 +24,10 @@ samples, guidance on mobile development, and a full API reference.
 
 <img src="https://github.com/jeminthesiya/user_ecommerce/assets/117918175/6feb6999-9ce4-4773-86c6-08eb5a8f3cb6" height="10%" width ="33%" >
 <img src="https://github.com/jeminthesiya/user_ecommerce/assets/117918175/49b1af9c-aa3e-4a7a-adfd-40a1ef69ebb7"  height="10%" width ="33%">
-<img src="https://github.com/jeminthesiya/user_ecommerce/assets/117918175/c1c3ad2d-12a3-4087-adfe-f45ca85606ab"  height="10%" width ="33%">
 
 <img src="https://github.com/jeminthesiya/user_ecommerce/assets/117918175/bb68226a-b955-422a-92a8-c0f8d1c7fdf0" height="10%" width ="33%" >
+<img src="https://github.com/jeminthesiya/user_ecommerce/assets/117918175/c1c3ad2d-12a3-4087-adfe-f45ca85606ab"  height="10%" width ="33%">
+
 
 <img src="https://github.com/jeminthesiya/user_ecommerce/assets/117918175/6df97a61-5f49-4e77-9ebc-0bc3b0001624"  height="10%" width ="33%">
 
